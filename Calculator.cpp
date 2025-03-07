@@ -36,4 +36,4 @@ This is a Conflict Line
  main
  main
  main
-This is Conflict Line
+This is Conflict Line 1
