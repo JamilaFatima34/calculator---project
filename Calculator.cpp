@@ -36,4 +36,8 @@ Console.WriteLine("The sum of " + num1 + "and " + num2 + "is: " + sum);
  main
  main
  main
+ Conflict-branch-2
+This is Conflict Line 1
 
+
+ main
