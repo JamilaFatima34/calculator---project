@@ -28,7 +28,7 @@ int num1 = 10;
 int num2 = 14;
 int sum = num1 + num2;
 Console.WriteLine("The sum of " + num1 + "and " + num2 + "is: " + sum);
-This is a Conflict Line
+
   
 
 
@@ -36,4 +36,12 @@ This is a Conflict Line
  main
  main
  main
+ Conflict-branch-1
 This is Conflict Line 1
+
+ Conflict-branch-2
+This is Conflict Line 1
+
+
+ main
+ main
